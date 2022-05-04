@@ -29,9 +29,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
 
 # Program
-## Developed by
-## Name: SHAIK KHADAR BASHA
-## Register Number: 212220230045
+# Developed by
+# Name: SHAIK KHADAR BASHA
+# Register Number: 212220230045
 ```python
 import numpy as np
 import math
@@ -63,6 +63,8 @@ else:
  
 # Output :
 
- ![Annotation 2022-05-04 101559](https://user-images.githubusercontent.com/75235233/166628051-aeb26119-8420-499d-bad1-2b3e2ad4697e.png)
+![exx](https://user-images.githubusercontent.com/75235233/166628206-3f4aa427-4655-4277-9150-941f38f91264.png)
+
+ 
 # Result:
 Thus, fitting poisson distribution for the given frequencey distribution is verified.
