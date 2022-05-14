@@ -33,9 +33,6 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Developed by
 # Name: SHAIK KHADAR BASHA
 # Register Number: 212220230045
-
-
-
 import numpy as np
 import math
 import scipy.stats
@@ -67,7 +64,8 @@ else:
  
 # Output :
 
-![exx](https://user-images.githubusercontent.com/75235233/166628206-3f4aa427-4655-4277-9150-941f38f91264.png)
+
+![POI](https://user-images.githubusercontent.com/75235233/168432458-2319bc2b-925c-4ed8-a5a4-695c541fc86a.png)
 
  
 # Result:
